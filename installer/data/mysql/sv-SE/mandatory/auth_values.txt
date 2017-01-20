@@ -1,1 +1,1 @@
-Default Koha system authorised values
+Standardvärden för Kohas auktoriserade värden
